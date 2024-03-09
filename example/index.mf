@@ -1,0 +1,5 @@
+<setting>
+    <tag load="dable-errdialog">ErrDialog</tag>
+</setting>
+
+<ErrDialog>Error Dialog</ErrDialog>

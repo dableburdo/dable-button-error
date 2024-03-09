@@ -1,0 +1,30 @@
+{
+  "name": "dable-button-error",
+  "version": "1.0.0",
+  "description": "dable errdialog styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dableburdo/dable-button-error.git"
+  },
+  "dependencies": {
+    "dable-dialog": "1.0.0",
+    "dable-text": "1.0.0",
+    "dable-button":"1.0.0",
+    "dable-effect-hrzpos": "1.0.0",
+    "dable-layout-hrzcenter" : "1.0.0"
+  },
+  "keywords": [
+    "dable",
+    "front-end"
+  ],
+  "author": "Dable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dableburdo/dable-button-error/issues"
+  },
+  "homepage": "https://github.com/dableburdo/dable-button-error#readme"
+}
