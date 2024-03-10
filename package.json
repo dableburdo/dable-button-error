@@ -1,6 +1,6 @@
 {
   "name": "dable-button-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dable errdialog styling",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "dable-text": "1.0.0",
     "dable-button":"1.0.0",
     "dable-effect-hrzpos": "1.0.0",
-    "dable-layout-hrzcenter" : "1.0.0"
+    "dable-layout-hrzcenter" : "1.0.0",
+    "firan-logging":"^1.0.0"
   },
   "keywords": [
     "dable",
